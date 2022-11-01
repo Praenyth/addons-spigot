@@ -6,6 +6,7 @@ This features quality stuff like pipebombs and a joke book.
 
 ### Pipebombs
 The pipebombs are special bombs you can craft like this:
+
 ![pipebomb recipe](https://user-images.githubusercontent.com/74604338/199359985-a212af0b-f7ef-4cc4-992a-4bb9135382b9.png)
 
 Put them in a chest, close it and open it back up and you have a portable explosion!
