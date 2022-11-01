@@ -1,0 +1,11 @@
+name: PraesAddons
+version: '${version}'
+main: me.praenyth.plugins.praesaddons.PraesAddons
+api-version: 1.19
+prefix: Prae's Addons
+authors: [ Praenyth ]
+description: An Addon for extra items
+website: https://twitter.com/praenyth
+depend:
+  - CommandAPI
+  - NBTAPI
