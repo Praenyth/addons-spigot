@@ -2,7 +2,7 @@
 
 #### This plugin **requires**:
 - NBTAPI - [Spigot](https://www.spigotmc.org/resources/nbt-api.7939/) [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/nbt-api/files) [Modrinth](https://modrinth.com/plugin/nbtapi)
-- CommandAPI [Spigot](https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-2.62353/) [Modrinth](https://modrinth.com/plugin/commandapi)
+- CommandAPI - [Spigot](https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-2.62353/) [Modrinth](https://modrinth.com/plugin/commandapi)
 
 ## A collection of addons from the voices in my head.
 
